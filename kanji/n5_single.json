@@ -153,7 +153,7 @@
         "stroke": 4
     },
     {
-        "character": "後",
+        "character": "前",
         "meaning_EN": "in front, before",
         "meaning_VI": "phía trước, trước,",
         "kunyomi": ["まえ"],
@@ -161,4 +161,85 @@
         "level": "N5",
         "stroke": 9
     },
+    {
+        "character": "生",
+        "meaning_EN": "life, genuine, birth",
+        "meaning_VI": "cuộc sống, chân thật, sinh",
+        "kunyomi": ["い(きる),う(む),お(う),は(える),なま"],
+        "onyomi": ["セイ,ショウ"],
+        "level": "N5",
+        "stroke": 5
+    },
+    {
+        "character": "五",
+        "meaning_EN": "five, 5",
+        "meaning_VI": "năm, số 5",
+        "kunyomi": ["いつ"],
+        "onyomi": ["ゴ"],
+        "level": "N5",
+        "stroke": 4
+    },
+    {
+        "character": "五",
+        "meaning_EN": "interval, space",
+        "meaning_VI": "khoảng, không gian",
+        "kunyomi": ["あいだ,ま,あい"],
+        "onyomi": ["カン,ケン"],
+        "level": "N5",
+        "stroke": 12
+    },
+    {
+        "character": "上",
+        "meaning_EN": "above, up",
+        "meaning_VI": "trên",
+        "kunyomi": ["うえ,うわ-,かみ,あ(げる),のぼ(る),たてまつ(る)"],
+        "onyomi": ["ジョウ,ショウ,シャン"],
+        "level": "N5",
+        "stroke": 3
+    },
+    {
+        "character": "東",
+        "meaning_EN": "east",
+        "meaning_VI": "phía đông, đông",
+        "kunyomi": ["ひがし"],
+        "onyomi": ["トウ"],
+        "level": "N5",
+        "stroke": 8
+    },
+    {
+        "character": "四",
+        "meaning_EN": "four, 4",
+        "meaning_VI": "bốn, số 4",
+        "kunyomi": ["よ(つ),よん,し"],
+        "onyomi": ["シ"],
+        "level": "N5",
+        "stroke": 5
+    },
+    {
+        "character": "今",
+        "meaning_EN": "now, the present",
+        "meaning_VI": "bây giờ, hiện tại",
+        "kunyomi": ["いま"],
+        "onyomi": ["コン、 キン"],
+        "level": "N5",
+        "stroke": 4
+    },
+    {
+        "character": "金",
+        "meaning_EN": "gold",
+        "meaning_VI": "vàng",
+        "kunyomi": ["かね,かな,がね"],
+        "onyomi": ["キン,コン,ゴン"],
+        "level": "N5",
+        "stroke": 4
+    },
+    {
+        "character": "九",
+        "meaning_EN": "nine, 9",
+        "meaning_VI": "chín, số 9",
+        "kunyomi": ["ここの(つ)"],
+        "onyomi": ["キュウ,ク"],
+        "level": "N5",
+        "stroke": 2
+    }
 ]
