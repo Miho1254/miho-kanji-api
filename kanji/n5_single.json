@@ -1,0 +1,164 @@
+[
+    {
+        "character": "日",
+        "meaning_EN": "day, sun",
+        "meaning_VI": "ngày, mặt trời",
+        "kunyomi": ["ひ,び,か"],
+        "onyomi": ["ニチ,ジツ"],
+        "level": "N5",
+        "stroke": 4
+    },
+    {
+        "character": "国",
+        "meaning_EN": "country",
+        "meaning_VI": "quốc gia",
+        "kunyomi": ["くに"],
+        "onyomi": ["コク"],
+        "level": "N5",
+        "stroke": 8
+    },
+    {
+        "character": "年",
+        "meaning_EN": "year",
+        "meaning_VI": "năm",
+        "kunyomi": ["とし"],
+        "onyomi": ["ネン"],
+        "level": "N5",
+        "stroke": 6
+    },
+    {
+        "character": "大",
+        "meaning_EN": "big, large",
+        "meaning_VI": "đại, lớn, to",
+        "kunyomi": ["ダイ,タイ"],
+        "onyomi": ["おお"],
+        "level": "N5",
+        "stroke": 3
+    },
+    {
+        "character": "十",
+        "meaning_EN": "ten, 10",
+        "meaning_VI": "đại, lớn, to",
+        "kunyomi": ["とお,と"],
+        "onyomi": ["とお,と"],
+        "level": "N5",
+        "stroke": 2
+    },
+    {
+        "character": "二",
+        "meaning_EN": "two, 2",
+        "meaning_VI": "hai, số 2",
+        "kunyomi": ["ふた"],
+        "onyomi": ["ニ,ジ"],
+        "level": "N5",
+        "stroke": 2
+    },
+    {
+        "character": "本",
+        "meaning_EN": "book, present, true",
+        "meaning_VI": "sách, hiện tại, đúng",
+        "kunyomi": ["もと"],
+        "onyomi": ["ホン"],
+        "level": "N5",
+        "stroke": 5
+    },
+    {
+        "character": "中",
+        "meaning_EN": "in, inside, center",
+        "meaning_VI": "ở, bên trong, ở giữa",
+        "kunyomi": ["なか,うち,あた"],
+        "onyomi": ["チュウ"],
+        "level": "N5",
+        "stroke": 4
+    },
+    {
+        "character": "長",
+        "meaning_EN": "long, leader, superior, senior",
+        "meaning_VI": "dài, lãnh đạo, cấp trên, sếp",
+        "kunyomi": ["なが,おさ"],
+        "onyomi": ["チョウ"],
+        "level": "N5",
+        "stroke": 8
+    },
+    {
+        "character": "出",
+        "meaning_EN": "exit, leave, go out, come out, put out, protrude",
+        "meaning_VI": "thoát ra, rời khỏi, đi ra, nhô ra",
+        "kunyomi": ["で,だ,い"],
+        "onyomi": ["シュツ,スイ"],
+        "level": "N5",
+        "stroke": 5
+    },
+    {
+        "character": "出",
+        "meaning_EN": "three, 3",
+        "meaning_VI": "ba, số 3",
+        "kunyomi": ["み"],
+        "onyomi": ["サン"],
+        "level": "N5",
+        "stroke": 3
+    },
+    {
+        "character": "時",
+        "meaning_EN": "time, hour",
+        "meaning_VI": "thời gian, giờ",
+        "kunyomi": ["とき,どき"],
+        "onyomi": ["ジ"],
+        "level": "N5",
+        "stroke": 10
+    },
+    {
+        "character": "行",
+        "meaning_EN": "going, journey, carry out, line, row",
+        "meaning_VI": "đi, hành trình, hàng, đường, mang đi",
+        "kunyomi": ["い,ゆ,おこな"],
+        "onyomi": ["コウ,ギョウ,アン"],
+        "level": "N5",
+        "stroke": 6
+    },
+    {
+        "character": "見",
+        "meaning_EN": "see, hopes, chances, idea, opinion, look at, visible",
+        "meaning_VI": "thấy, hy vọng, cơ hội, ý tưởng, ý kiến, nhìn vào, có thể nhìn thấy",
+        "kunyomi": ["み"],
+        "onyomi": ["ケン"],
+        "level": "N5",
+        "stroke": 7
+    },
+    {
+        "character": "月",
+        "meaning_EN": "month, moon",
+        "meaning_VI": "tháng, mặt trăng",
+        "kunyomi": ["つき"],
+        "onyomi": ["ゲツ,ガツ"],
+        "level": "N5",
+        "stroke": 4
+    },
+    {
+        "character": "分",
+        "meaning_EN": "part, minute of time, understand",
+        "meaning_VI": "phần, phút, hiểu",
+        "kunyomi": ["わ"],
+        "onyomi": ["ブン,フン,ブ"],
+        "level": "N5",
+        "stroke": 4
+    },
+    {
+        "character": "後",
+        "meaning_EN": "behind, back, later",
+        "meaning_VI": "phía sau, sau, sau đó",
+        "kunyomi": ["のち、 うし(ろ)、 あと"],
+        "onyomi": ["ゴ,コウ"],
+        "level": "N5",
+        "stroke": 4
+    },
+    {
+        "character": "後",
+        "meaning_EN": "in front, before",
+        "meaning_VI": "phía trước, trước,",
+        "kunyomi": ["まえ"],
+        "onyomi": ["ゼン"],
+        "level": "N5",
+        "stroke": 9
+    },
+]
