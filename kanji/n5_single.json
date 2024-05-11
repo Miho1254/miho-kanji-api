@@ -241,5 +241,275 @@
         "onyomi": ["キュウ,ク"],
         "level": "N5",
         "stroke": 2
+    },
+    {
+        "character": "入",
+        "meaning_EN": "enter, insert",
+        "meaning_VI": "vào, nhập",
+        "kunyomi": ["い(る),はい(る)"],
+        "onyomi": ["ニュウ"],
+        "level": "N5",
+        "stroke": 2
+    },
+    {
+        "character": "学",
+        "meaning_EN": "study, learning, science",
+        "meaning_VI": "học, học tập, nghiên cứu",
+        "kunyomi": ["まな(ぶ)"],
+        "onyomi": ["ガク"],
+        "level": "N5",
+        "stroke": 8
+    },
+    {
+        "character": "高",
+        "meaning_EN": "tall, high, expensive",
+        "meaning_VI": "cao, đắt",
+        "kunyomi": ["たか(い)"],
+        "onyomi": ["コウ"],
+        "level": "N5",
+        "stroke": 10
+    },
+    {
+        "character": "円",
+        "meaning_EN": "circle, yen, round",
+        "meaning_VI": "yên, tròn, vòng",
+        "kunyomi": ["まる(い)"],
+        "onyomi": ["エン"],
+        "level": "N5",
+        "stroke": 10
+    },
+    {
+        "character": "子",
+        "meaning_EN": "child",
+        "meaning_VI": "con cái, con",
+        "kunyomi": ["こ,ね"],
+        "onyomi": ["シ,ス,ツ"],
+        "level": "N5",
+        "stroke": 3
+    },
+    {
+        "character": "外",
+        "meaning_EN": "outside",
+        "meaning_VI": "bên ngoài, ngoại",
+        "kunyomi": ["そと,ほか,はず(す),と"],
+        "onyomi": ["ガイ,ゲ"],
+        "level": "N5",
+        "stroke": 3
+    },
+    {
+        "character": "八",
+        "meaning_EN": "eight, 8",
+        "meaning_VI": "tám, số 8",
+        "kunyomi": ["や(つ),よう"],
+        "onyomi": ["ハチ"],
+        "level": "N5",
+        "stroke": 2
+    },
+    {
+        "character": "六",
+        "meaning_EN": "six, 6",
+        "meaning_VI": "sáu, số 6",
+        "kunyomi": ["む(つ)、 むい"],
+        "onyomi": ["ロク"],
+        "level": "N5",
+        "stroke": 4
+    },
+    {
+        "character": "下",
+        "meaning_EN": "below, down, descend, give, low, inferior",
+        "meaning_VI": "bên dưới, xuống, hạ xuống, cho, thấp, kém cỏi",
+        "kunyomi": ["した、 しも、 もと、 さ(げる)、 くだ(る)、 お(ろす)"],
+        "onyomi": ["カ,ゲ"],
+        "level": "N5",
+        "stroke": 3
+    },
+    {
+        "character": "来",
+        "meaning_EN": "come, due, next, cause, become",
+        "meaning_VI": "đến, quá hạn, kế tiếp, trở thành",
+        "kunyomi": ["く(る),きた(る),き,こ"],
+        "onyomi": ["ライ,タイ"],
+        "level": "N5",
+        "stroke": 7
+    },
+    {
+        "character": "気",
+        "meaning_EN": "spirit, mind, air, atmosphere, mood",
+        "meaning_VI": "tinh thần, tâm trí, không khí, bầu không khí, tâm trạng",
+        "kunyomi": ["いき"],
+        "onyomi": ["キ,ケ"],
+        "level": "N5",
+        "stroke": 6
+    },
+    {
+        "character": "小",
+        "meaning_EN": "little, small",
+        "meaning_VI": "nhỏ",
+        "kunyomi": ["ちい(さい),こ,お,さ"],
+        "onyomi": ["ショウ"],
+        "level": "N5",
+        "stroke": 6
+    },
+    {
+        "character": "七",
+        "meaning_EN": "seven, 7",
+        "meaning_VI": "bảy, số 7",
+        "kunyomi": ["なな(つ),なの"],
+        "onyomi": ["シチ"],
+        "level": "N5",
+        "stroke": 6
+    },
+    {
+        "character": "話",
+        "meaning_EN": "tale, talk",
+        "meaning_VI": "câu chuyện, nói, nói chuyện",
+        "kunyomi": ["はな(す),はなし"],
+        "onyomi": ["ワ"],
+        "level": "N5",
+        "stroke": 3
+    },
+    {
+        "character": "女",
+        "meaning_EN": "woman, female",
+        "meaning_VI": "phụ nữ, con gái",
+        "kunyomi": ["おんな,め"],
+        "onyomi": ["ジョ"],
+        "level": "N5",
+        "stroke": 3
+    },
+    {
+        "character": "北",
+        "meaning_EN": "north",
+        "meaning_VI": "phía bắc, bắc",
+        "kunyomi": ["きた"],
+        "onyomi": ["ホク"],
+        "level": "N5",
+        "stroke": 5
+    },
+    {
+        "character": "午",
+        "meaning_EN": "noon, sign of the horse",
+        "meaning_VI": "trưa, ngựa, mã",
+        "kunyomi": ["うま"],
+        "onyomi": ["ゴ"],
+        "level": "N5",
+        "stroke": 4
+    },
+    {
+        "character": "百",
+        "meaning_EN": "hundred",
+        "meaning_VI": "trăm, một trăm",
+        "kunyomi": ["もも"],
+        "onyomi": ["ヒャク,ビャク"],
+        "level": "N5",
+        "stroke": 6
+    },
+    {
+        "character": "百",
+        "meaning_EN": "hundred",
+        "meaning_VI": "trăm, một trăm",
+        "kunyomi": ["もも"],
+        "onyomi": ["ヒャク,ビャク"],
+        "level": "N5",
+        "stroke": 6
+    },
+    {
+        "character": "書",
+        "meaning_EN": "hundred",
+        "meaning_VI": "trăm, một trăm",
+        "kunyomi": ["か(く)"],
+        "onyomi": ["ショ"],
+        "level": "N5",
+        "stroke": 10
+    },
+    {
+        "character": "先",
+        "meaning_EN": "before, ahead, previous, future, precedence",
+        "meaning_VI": "trước, phía trước, trước kia, tương lai, ưu tiên",
+        "kunyomi": ["さき、 ま(ず)"],
+        "onyomi": ["セン"],
+        "level": "N5",
+        "stroke": 6
+    },
+    {
+        "character": "名",
+        "meaning_EN": "name, noted, distinguished, reputation",
+        "meaning_VI": "tên, lưu ý, nổi bật, danh tiếng",
+        "kunyomi": ["な"],
+        "onyomi": ["メイ、 ミョウ"],
+        "level": "N5",
+        "stroke": 6
+    },
+    {
+        "character": "川",
+        "meaning_EN": "river, stream",
+        "meaning_VI": "sông, dòng sông, dòng chảy",
+        "kunyomi": ["かわ"],
+        "onyomi": ["セン"],
+        "level": "N5",
+        "stroke": 3
+    },
+    {
+        "character": "千",
+        "meaning_EN": "thousand",
+        "meaning_VI": "nghìn, một nghìn",
+        "kunyomi": ["ち"],
+        "onyomi": ["セン"],
+        "level": "N5",
+        "stroke": 3
+    },
+    {
+        "character": "水",
+        "meaning_EN": "water",
+        "meaning_VI": "nước, thuỷ",
+        "kunyomi": ["みず"],
+        "onyomi": ["スイ"],
+        "level": "N5",
+        "stroke": 4
+    },
+    {
+        "character": "半",
+        "meaning_EN": "half, middle, odd number, semi-",
+        "meaning_VI": "nửa, giữa, lẻ, bán",
+        "kunyomi": ["なか(ば)"],
+        "onyomi": ["ハン"],
+        "level": "N5",
+        "stroke": 5
+    },
+    {
+        "character": "男",
+        "meaning_EN": "male, man",
+        "meaning_VI": "con trai, đàn ông",
+        "kunyomi": ["おとこ,お"],
+        "onyomi": ["ダン、 ナン"],
+        "level": "N5",
+        "stroke": 5
+    },
+    {
+        "character": "西",
+        "meaning_EN": "west",
+        "meaning_VI": "phía đông, mùa đông",
+        "kunyomi": ["にし"],
+        "onyomi": ["セイ,サイ"],
+        "level": "N5",
+        "stroke": 6
+    },
+    {
+        "character": "電",
+        "meaning_EN": "electricity; electric powered",
+        "meaning_VI": "điện",
+        "kunyomi": [""],
+        "onyomi": ["デン"],
+        "level": "N5",
+        "stroke": 12
+    },
+    {
+        "character": "校",
+        "meaning_EN": "school, exam",
+        "meaning_VI": "điện",
+        "kunyomi": [""],
+        "onyomi": ["コウ"],
+        "level": "N5",
+        "stroke": 10
     }
 ]
